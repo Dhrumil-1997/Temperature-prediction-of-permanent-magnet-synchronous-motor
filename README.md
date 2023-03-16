@@ -1,0 +1,1 @@
+# Temperature-prediction-of-permanent-magnet-synchronous-motor
