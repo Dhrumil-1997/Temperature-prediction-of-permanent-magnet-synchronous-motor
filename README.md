@@ -16,3 +16,8 @@ predictive analytic pipeline.
 
 ## Result
 
+![alt text](https://github.com/Dhrumil-1997/Temperature-prediction-of-permanent-magnet-synchronous-motor/blob/main/accuracy.png)
+
+![alt text](https://github.com/Dhrumil-1997/Temperature-prediction-of-permanent-magnet-synchronous-motor/blob/main/results.png)
+
+
